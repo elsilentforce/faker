@@ -1,5 +1,5 @@
 module Faker
-  class RoutingUC
+  class RoutingUC < Base
     class << self
       def llegando_status
         fetch('routinguc.llegando.status')
