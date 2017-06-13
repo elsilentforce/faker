@@ -778,4 +778,4 @@ en:
       starships: ["Billion Year Bunker", "Bistromath", "Golgafrinchan Ark Fleet Ship B", "Heart of Gold", "Krikkit One", "RW6", "Starship Titanic", "Tanngrisnir", "Vogon Constructor Fleet"]
     routinguc:
       llegando:
-        status: ["PENDING","ARRIVED","SUCCESS","FAILURE"]
+        status: ["PENDING","SUCCESS"]
